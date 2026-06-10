@@ -230,7 +230,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and the issue templates.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Apache 2.0  
 
 ---
 
