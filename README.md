@@ -1,6 +1,16 @@
 # Shellcode Research Laboratory (SRL)
 
+```
+     ____  ____  _
+    / ___||  _ \| |       Shellcode Research Laboratory
+    \___ \| |_) | |       v1.0  -  research & analysis framework
+     ___) |  _ <| |___    Author : TENETx0
+    |____/|_| \_\_____|   GitHub : github.com/TENETx0/Shellcode_Research_Laboratory
+```
+
 > A terminal-based framework in pure C for **analyzing** shellcode, encodings, entropy, and binary structure.
+
+**Author:** [TENETx0](https://github.com/TENETx0) &nbsp;•&nbsp; **Repo:** [Shellcode_Research_Laboratory](https://github.com/TENETx0/Shellcode_Research_Laboratory)
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](#building)
 [![Language](https://img.shields.io/badge/C-C11-blue)](#)
@@ -61,8 +71,8 @@ sudo apt install build-essential libssl-dev libncurses-dev zlib1g-dev
 
 ### Build & install
 ```bash
-git clone https://github.com/<you>/srl.git
-cd srl
+git clone https://github.com/TENETx0/Shellcode_Research_Laboratory.git
+cd Shellcode_Research_Laboratory
 make            # build ./srl
 make test       # run the unit tests
 sudo make install   # -> /usr/bin/srl
@@ -230,7 +240,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and the issue templates.
 
 ## License
 
-Apache 2.0  
+Apache 2.0
+
+Copyright (c) 2026 TENETx0.
 
 ---
 
